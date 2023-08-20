@@ -1,2 +1,2 @@
 # alice-esp-rx
-idk i did something funny
+just run this if you have a script injector
